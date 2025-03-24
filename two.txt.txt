@@ -1,1 +1,1 @@
-this is devops practical
+this is the updated file of twotxt
